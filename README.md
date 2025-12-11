@@ -47,7 +47,7 @@ students.json → with content: []
 attempts.json → with content: []
 These will store student records and score attempts.
 
-Usage Instructions
+<h1>Usage Instructions</h1>
 
 Step 1: Run the App
 Inside the CODE folder or open it in vscode and in terminal type:
