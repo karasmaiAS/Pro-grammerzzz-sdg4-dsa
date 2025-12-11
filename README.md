@@ -103,18 +103,32 @@ DOMINGO, JAYSON B. as (vorn440) (25% of Documentation), (Prelim DSA Code Impleme
 Folder Structure
 
 Pro-grammerzzz-sdg4-dsa/
+
 │
+
 ├── CODE/
+
 │     ├── main.py
+
 │     ├── auth.json
+
 │
+
 ├── INPUT_DATA/
+
 │     ├── students.json
+
 │     ├── attempts.json
+
 │
 ├── DOCUMENTATION/
+
 │     ├── SDG_Report.pdf
+
 │     ├── Flowchart.png
+
 │     ├── Screenshots/
+
 │
+
 └── README.md
