@@ -18,6 +18,7 @@ Justification of Data Structures Used
 Linked List - it's purpose is to Stores student records. linked list is used because it Allows dynamic addition/removal of students without array resizing.
 
 Stack - it's purpose is to Stores recent score attempts. stack is used because it Enables “Undo Last Attempt” using LIFO behavior.
+
 Sorting (Custom) - it's purpose is to Ranks students by score. Sorting is used becuase it Allows dynamic ranking based on selected score type and grading period.
 
 JSON Files library - it's purpose is for Persistent storage. json is used because it is Lightweight, readable, and ideal for local data saving.
