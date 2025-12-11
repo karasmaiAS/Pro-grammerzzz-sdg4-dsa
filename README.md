@@ -97,3 +97,24 @@ Undo the most recent score entry
 Abdul, Muhammad Siddiq M. as (karasmaiAS) contributed (Github Repository Submission), (75% of Documentation), (Midterm, Final DSA Code Implementation),(Academic Format Document Implementation), (Power Point Presentation)
 
 DOMINGO, JAYSON B. as (vorn440) (25% of Documentation), (Prelim DSA Code Implementation)
+
+
+<h3>Additonal Information</h3>
+Folder Structure
+
+Pro-grammerzzz-sdg4-dsa/
+│
+├── CODE/
+│     ├── main.py
+│     ├── auth.json
+│
+├── INPUT_DATA/
+│     ├── students.json
+│     ├── attempts.json
+│
+├── DOCUMENTATION/
+│     ├── SDG_Report.pdf
+│     ├── Flowchart.png
+│     ├── Screenshots/
+│
+└── README.md
