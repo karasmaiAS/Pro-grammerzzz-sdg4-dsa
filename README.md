@@ -4,7 +4,7 @@ SDG 4 – Quality Education
 
 This project addresses the challenge of tracking student performance efficiently and accurately. Many schools still rely on manual grade recording, which leads to errors, lost data, and difficulty monitoring progress. Our system provides a digital, structured, and accessible way to record, update, and analyze student scores — supporting inclusive and equitable quality education.
 
-Project Description
+<h4>Project Description</h4>
 The Student Performance Tracker is a Python-based web application built with Streamlit. It allows educators to:
 Add and manage student records,
 Record scores across grading periods
@@ -19,7 +19,7 @@ Stack - it's purpose is to Stores recent score attempts. stack is used because i
 Sorting (Custom) - it's purpose is to Ranks students by score. Sorting is used becuase it Allows dynamic ranking based on selected score type and grading period.
 JSON Files library - it's purpose is for Persistent storage. json is used because it is Lightweight, readable, and ideal for local data saving.
 
-Installation and Setup
+<h4>Installation and Setup and Run locally</h4>
 
 Step 1: Clone the Repository
 Open Git Bash or CMD and run:
