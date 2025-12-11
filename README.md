@@ -43,8 +43,11 @@ altair → for charts and rankings
 
 Step 4: Prepare JSON Files
 Inside INPUT_DATA/, create two files:
+
 students.json → with content: []
+
 attempts.json → with content: []
+
 These will store student records and score attempts.
 
 <h1>Usage Instructions</h1>
@@ -92,4 +95,5 @@ Undo the most recent score entry
 <h2>Contributors</h2>
 
 Abdul, Muhammad Siddiq M. as (karasmaiAS) contributed (Github Repository Submission), (75% of Documentation), (Midterm, Final DSA Code Implementation),(Academic Format Document Implementation), (Power Point Presentation)
+
 DOMINGO, JAYSON B. as (vorn440) (25% of Documentation), (Prelim DSA Code Implementation)
