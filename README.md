@@ -1,10 +1,11 @@
 # Pro-grammerzzz-sdg4-dsa
+</h1>Project Title and SDG Goal</h1>
 Student Performance Tracker
 SDG 4 – Quality Education
 
 This project addresses the challenge of tracking student performance efficiently and accurately. Many schools still rely on manual grade recording, which leads to errors, lost data, and difficulty monitoring progress. Our system provides a digital, structured, and accessible way to record, update, and analyze student scores — supporting inclusive and equitable quality education.
 
-<h4>Project Description</h4>
+<h1>Project Description</h1>
 The Student Performance Tracker is a Python-based web application built with Streamlit. It allows educators to:
 Add and manage student records,
 Record scores across grading periods
