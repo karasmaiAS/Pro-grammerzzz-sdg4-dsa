@@ -209,7 +209,7 @@ if "auth" not in st.session_state:
     st.session_state.auth = load_auth()
 
 if not st.session_state.auth:   
-    pw = st.text_input("Enter Password", type="password")
+    pw = st.text_input("Enter Password", type="password", autocomplete="off")
     if st.button("Login"):
         if pw == PASSWORD:
             st.session_state.auth = True
@@ -256,11 +256,6 @@ with st.sidebar.expander("Performance", expanded=True):
         "Recent Attempts"
     ])
 
-# Optional: manual reload button if you want
-if st.sidebar.button("Reload Data from JSON"):
-    st.session_state.students = load_students()
-    st.session_state.attempts = load_attempts()
-    st.success("Data reloaded from INPUT_DATA.")
 
 if st.sidebar.button("Log Out"):
     st.session_state.auth = False
