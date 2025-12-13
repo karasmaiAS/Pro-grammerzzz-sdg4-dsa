@@ -128,9 +128,9 @@ Pro-grammerzzz-sdg4-dsa/
 
 │     ├── SDG_Report.pdf
 
-│     ├── Flowchart.png
+│     
 
-│     ├── Screenshots/
+│     
 
 │
 
